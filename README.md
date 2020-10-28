@@ -11,11 +11,11 @@ It performs many tasks on sneakers's and hype clothing sites. Here are few avail
 
 #### To do 
 
-  [ ] One click Gmail farm
-  [ ] Off-White website support
-  [ ] Footactions
-  [ ] Discord webhooks
-  [!] YeezySupply support
+-  [ ] One click Gmail farm
+-  [ ] Off-White website support
+-  [ ] Footactions
+-  [ ] Discord webhooks
+-  [x] YeezySupply support
   
  ***Updates will be purged continuosly***
 
