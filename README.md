@@ -1,7 +1,4 @@
 # Kr0nos
-#
-#
-#
 
 [![Kr0nos](https://pbs.twimg.com/media/ElbDZDkWkAEAljj?format=png&name=small)](https://twitter.com/kr0nosCLI)
 
@@ -18,7 +15,7 @@ It performs many tasks on sneakers's and hype clothing sites. Here are few avail
   [ ] Off-White website support
   [ ] Footactions
   [ ] Discord webhooks
-  [x] YeezySupply support
+  [!] YeezySupply support
   
  ***Updates will be purged continuosly***
 
