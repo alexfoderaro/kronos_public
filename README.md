@@ -1,6 +1,9 @@
 # Kr0nos
+#
+#
+#
 
-[![Kr0nos](https://pbs.twimg.com/media/ElbDZDkWkAEAljj?format=png&name=small)](https://twitter.com/kr0nosCLI)
+[![Kr0nos](https://pbs.twimg.com/profile_banners/1312978379520520195/1603916513/600x200)](https://twitter.com/kr0nosCLI)
 
 # Kr0nos is an automated CLI tool
 It performs many tasks on sneakers's and hype clothing sites. Here are few available tasks
@@ -11,11 +14,11 @@ It performs many tasks on sneakers's and hype clothing sites. Here are few avail
 
 #### To do 
 
--  [ ] One click Gmail farm
--  [ ] Off-White website support
--  [ ] Footactions
--  [ ] Discord webhooks
--  [x] YeezySupply support
+  [ ] One click Gmail farm
+  [ ] Off-White website support
+  [ ] Footactions
+  [ ] Discord webhooks
+  [x] YeezySupply support
   
  ***Updates will be purged continuosly***
 
@@ -62,4 +65,23 @@ License
 
 MIT
 
-  
+   [dill]: <https://github.com/joemccann/dillinger>
+   [git-repo-url]: <https://github.com/joemccann/dillinger.git>
+   [john gruber]: <http://daringfireball.net>
+   [df1]: <http://daringfireball.net/projects/markdown/>
+   [markdown-it]: <https://github.com/markdown-it/markdown-it>
+   [Ace Editor]: <http://ace.ajax.org>
+   [node.js]: <http://nodejs.org>
+   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
+   [jQuery]: <http://jquery.com>
+   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
+   [express]: <http://expressjs.com>
+   [AngularJS]: <http://angularjs.org>
+   [Gulp]: <http://gulpjs.com>
+
+   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
+   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
+   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
+   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
+   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
+   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
