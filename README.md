@@ -1,7 +1,5 @@
 # Kr0nos
-#
-#
-#
+
 
 [![Kr0nos](https://pbs.twimg.com/profile_banners/1312978379520520195/1603916513/600x200)](https://twitter.com/kr0nosCLI)
 
