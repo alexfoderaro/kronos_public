@@ -1,6 +1,5 @@
 # Kr0nos
 
-
 [![Kr0nos](https://pbs.twimg.com/profile_banners/1312978379520520195/1603916513/600x200)](https://twitter.com/kr0nosCLI)
 
 # Kr0nos is an automated CLI tool
@@ -12,12 +11,19 @@ It performs many tasks on sneakers's and hype clothing sites. Here are few avail
 
 #### To do 
 
- - [ ] One click Gmail farm
- - [ ] Off-White website support
- - [ ] Footactions
- - [ ] Discord webhooks
- - [x] YeezySupply support
-  
+- [ ] Select site from sitelist
+- [x] Edit config.json
+- [x] Create a new profile
+- [ ] Delete a profile
+- [ ] Gmail farm account
+- [ ] Delete a profile
+- [ ] Paypal login
+- [ ] Delete a profile
+- [x] Splash tabs
+- [x] Test proxies
+
+
+
  ***Updates will be purged continuosly***
 
 
