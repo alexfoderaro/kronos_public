@@ -5,7 +5,7 @@
 # Kr0nos is an automated CLI tool
 It performs many tasks on sneakers's and hype clothing sites. Here are few available tasks
   - Proxy tester: allows the user to test the validity of proxies
-  - Foot-Locker EU: allows to cop easily by looking for keeywords
+  - Foot-Locker EU: allows to cop easily by looking for keywords
   - Footsistes: performs requests adding items to cart and submitting address-payment
   - Splash tabs: allow the single user to create multiple tabs using proxies on a certain url; it supports autologin on Nike.com and it's set with a **.csv** file
 
